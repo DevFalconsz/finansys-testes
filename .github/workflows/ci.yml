@@ -3,10 +3,10 @@ name: CI/CD Finansys
 on:
   push:
     branches:
-      - tests-branch
+      - main
   pull_request:
     branches:
-      - tests-branch
+      - main
 
 jobs:
   build-and-test:
