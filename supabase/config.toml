@@ -1,0 +1,7 @@
+project_id = "hnolptsgmaigpbbfgilm"
+
+[functions.create-user]
+verify_jwt = false
+
+[functions.confirm-all-emails]
+verify_jwt = false
